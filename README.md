@@ -9,7 +9,6 @@ This project demonstrates how to train a neural network using TensorFlow/Keras t
 4. [Model Training](#model-training)
 5. [Model Evaluation](#model-evaluation)
 6. [Confusion Matrix Visualization](#confusion-matrix-visualization)
-7. [License](#license)
 
 ## Overview
 
@@ -70,6 +69,9 @@ Epoch 10/10
 
 313/313 [==============================] - 1s 2ms/step - accuracy: 0.9722 - loss: 0.1025
 
+## Confusion Matrix Visualization
+
+![Screenshot 2025-01-12 235134](https://github.com/user-attachments/assets/3a958843-3f68-4c19-85ac-f75e7e0123e6)
 
 
 You can install the required dependencies by running:

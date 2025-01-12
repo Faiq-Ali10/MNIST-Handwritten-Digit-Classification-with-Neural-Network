@@ -24,6 +24,30 @@ In this project, the MNIST dataset is loaded, preprocessed, and used to train a 
 - matplotlib
 - seaborn
 
+## Model Training
+
+Epoch 1/10
+1875/1875 [==============================] - 11s 5ms/step - accuracy: 0.8789 - loss: 0.4480
+Epoch 2/10
+1875/1875 [==============================] - 7s 4ms/step - accuracy: 0.9597 - loss: 0.1373
+Epoch 3/10
+1875/1875 [==============================] - 9s 5ms/step - accuracy: 0.9758 - loss: 0.0830
+Epoch 4/10
+1875/1875 [==============================] - 9s 5ms/step - accuracy: 0.9808 - loss: 0.0637
+Epoch 5/10
+1875/1875 [==============================] - 7s 4ms/step - accuracy: 0.9859 - loss: 0.0483
+Epoch 6/10
+1875/1875 [==============================] - 8s 4ms/step - accuracy: 0.9881 - loss: 0.0393
+Epoch 7/10
+1875/1875 [==============================] - 8s 4ms/step - accuracy: 0.9915 - loss: 0.0292
+Epoch 8/10
+1875/1875 [==============================] - 8s 4ms/step - accuracy: 0.9919 - loss: 0.0261
+Epoch 9/10
+1875/1875 [==============================] - 8s 4ms/step - accuracy: 0.9933 - loss: 0.0212
+Epoch 10/10
+1875/1875 [==============================] - 8s 4ms/step - accuracy: 0.9960 - loss: 0.0148
+
+
 You can install the required dependencies by running:
 
 ```bash

@@ -47,6 +47,11 @@ Epoch 9/10
 Epoch 10/10
 1875/1875 [==============================] - 8s 4ms/step - accuracy: 0.9960 - loss: 0.0148
 
+## Model Evaluation
+
+313/313 [==============================] - 1s 2ms/step - accuracy: 0.9722 - loss: 0.1025
+
+
 
 You can install the required dependencies by running:
 
